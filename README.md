@@ -2,7 +2,7 @@ Spring3 rest webservice with jackson library and calling from angularJS & html.
 =====================
 ReSTFul WebServices using  Spring-3.2.11 , Jackson-2.4.3  with AngularJS-1.3.0 with html5.	
 #Prerequisites:- 
-You should be having jdk1.7.x ,apache tomcat7.x, apache-maven-3.2.3-bin.	
+You should be having jdk1.7.x ,apache tomcat7.x, apache-maven-3.2.3-bin ,Git-1.9.4 client tool, Curl Command line tool.	
 #step1:- 
 clone the project from repo.
 #step2:-
